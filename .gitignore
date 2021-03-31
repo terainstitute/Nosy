@@ -2,4 +2,5 @@ lab/data/*
 !lab/data/Example_Data
 lab/tools/lib*
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .env

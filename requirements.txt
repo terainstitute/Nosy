@@ -1,3 +1,8 @@
 jupyterlab<=3.1.0
 pandas
 google
+numpy
+google
+spacy
+python-dotenv
+py2neo
