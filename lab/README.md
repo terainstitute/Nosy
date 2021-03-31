@@ -1,10 +1,11 @@
-# Welcome to the Lab
+# Welcome to Nosy
+tbd
 
 # Prequisites
+tbd
 
 ## Security First
-Use VPN
-https://www.whatismyip.com/de/
+tbd
 
 ## Ethical considerations
 tbd
@@ -13,4 +14,5 @@ tbd
 The project comes with a list of tools which can be installed via
 http://127.0.0.1:8888/doc/tree/tools/INSTALLER.ipynb
 
-# Your First Case
+# Transforms
+tbd

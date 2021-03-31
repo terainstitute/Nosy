@@ -1,2 +1,3 @@
 lab/data/*
+!lab/data/Example_Data
 lab/tools/lib*
